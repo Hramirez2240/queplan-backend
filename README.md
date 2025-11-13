@@ -97,3 +97,9 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## License
 
 Nest is [MIT licensed](https://github.com/nestjs/nest/blob/master/LICENSE).
+
+
+Utilicé IA para:
+
+crear la función que notificara los cambios en la base de datos.
+realizar primeros pasos con el ORM sequelize
